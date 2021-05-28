@@ -1,3 +1,3 @@
 #infernum
 
-project has been privated for the time being.
+infernum has been publicized, the discord bot is currently in-development.
