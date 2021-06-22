@@ -1,3 +1,2 @@
-#infernum
-
-infernum has been publicized, the discord bot is currently in-development.
+publicized and in-development, the source code will remain private.
+join the support server for help.
