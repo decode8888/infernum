@@ -1,2 +1,1 @@
-publicized and in-development, the source code will remain private.
-join the support server for help.
+publicized and completed, handed over to others, the source code will remain private.
